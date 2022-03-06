@@ -3,16 +3,8 @@
 ## 반갑습니다🖐🏻 신입 프론트엔드 개발자 이우진입니다  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 부산대학교 디자인앤테크놀로지 전공에서 디자인과 프로그래밍을 학습하였고, 현장 실습을 통해 웹개발과 스타트업에 관심을 가지게 되었습니다.<br/>
+- 눈으로 보이는 결과물을 직접 완성해내는 것이 좋아서 프론트엔드 개발자의 꿈을 키우게 되었고, 실력 있는 개발자가 되기 위해 고민하고 학습하는 중입니다.
   
 
 <br/>  

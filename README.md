@@ -44,6 +44,8 @@
 </div>  
 <br/>
 <br/>  
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31z26ebvmvfzme53xtmbpjfs4rau&cover_image=true&theme=default" /></div>  
+
+[![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nijoow1127@gmail.com)
+
 
 <br/>

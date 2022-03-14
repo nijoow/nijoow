@@ -47,5 +47,5 @@
 <br/>  
 
 
-[![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nijoow1127)
+[![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
 

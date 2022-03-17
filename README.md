@@ -8,6 +8,7 @@
 - 눈으로 보이는 결과물을 직접 완성해내는 것에 흥미를 느껴 프론트엔드 개발자의 꿈을 키우게 되었고, 실력 있는 개발자가 되기 위해 고민하고 학습하는 중입니다.
 - 부족한 부분이 있더라도 항상 배우고 습득하려는 태도를 가지려고 노력하는 중입니다.
 <br/>  
+<a href="nijoow.github.io/" target="_blank" rel="noopener noreferrer"> 포트폴리오 </a>
 
 ## My Skill Set  
 ### - Frontend  

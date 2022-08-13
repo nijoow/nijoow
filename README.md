@@ -1,4 +1,4 @@
-
+<!--
 
 ## 반갑습니다🖐🏻 신입 프론트엔드 개발자 이우진입니다  
   
@@ -14,11 +14,11 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
-<!-- <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />   -->
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
   
-<!-- <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
-<img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> -->
+ <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
+<img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </div>  
 
 ### - Etc  
@@ -31,7 +31,7 @@
 <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/>
 </div>
 <br/>
-
+ -->
 
 ## About Me
 <div align="left">

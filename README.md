@@ -45,6 +45,7 @@
 <br/>
 <br/>  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijoow)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
 

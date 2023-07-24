@@ -15,3 +15,4 @@
 
 [![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijoow)](https://hits.seeyoufarm.com)                    

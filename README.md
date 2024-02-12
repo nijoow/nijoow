@@ -1,7 +1,7 @@
 
 ## About Me
 <div align="left">
-<a href="https://nijoow.github.io/" target="_blank">
+<a href="https://nijoow-portfolio.vercel.app/" target="_blank">
 <img src=https://img.shields.io/static/v1?label=&message=Portfolio&color=8458b3&style=for-the-badge alt="Portfolio" style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:nijoow1127@gmail.com"><img src="https://img.shields.io/badge/nijoow1127@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>

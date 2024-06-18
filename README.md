@@ -37,11 +37,17 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</a>
-
-
 </p>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/nijoow?pet-id=590728479349864970"
+    width="480"
+    height="120"
+  />
+</a>
+  
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijoow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)

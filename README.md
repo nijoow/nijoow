@@ -19,12 +19,12 @@
 <h2 align="left">Languages and Tools</h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,tailwind" />
   </a>
 </p>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,yarn,figma" />
   </a>
 </p>

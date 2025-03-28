@@ -1,5 +1,6 @@
 
 ## About Me
+  🎨 Design-minded Developer | ☕ Learning about Coffee 
 <div align="left">
 <a href="https://nijoow-portfolio.vercel.app/" target="_blank">
   <img src=https://img.shields.io/static/v1?label=&message=Portfolio&color=8458b3&style=for-the-badge alt="Portfolio" style="margin-bottom: 5px;" />
@@ -32,7 +33,8 @@
     height="120"
   />
 </a>
-  
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijoow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
+###
 [![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
+
+<img src="https://raw.githubusercontent.com/nijoow/nijoow/output/snake.svg" alt="Snake animation" />

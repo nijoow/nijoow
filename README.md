@@ -35,8 +35,8 @@
   
 [![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/nijoow?pet-id=590728479349864970"
+ <img
+    src="https://render.gitanimals.org/lines/nijoow?pet-id=723089734390889944"
     width="320"
     height="120"
   />

@@ -25,7 +25,7 @@
 </p>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,yarn,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma" />
   </a>
 </p>
 

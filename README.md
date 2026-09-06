@@ -1,46 +1,21 @@
+# 이우진 · Woojin Lee
 
-<h2 align="left">About Me</h2>
-<p align="left">🎨 Design-minded Developer | ☕ Learning about Coffee </p>
+**프론트엔드 개발자**
 
-<div align="left">
-  <a href="https://nijoow-portfolio.vercel.app/" target="_blank">
-    <img src=https://img.shields.io/static/v1?label=&message=Portfolio&color=8458b3&style=for-the-badge alt="Portfolio" style="margin-bottom: 5px;" />
-  </a> 
-  <a href="https://www.linkedin.com/in/nijoow/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKED IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-  </a>
-  <a href="mailto:nijoow1127@gmail.com">
-    <img src="https://img.shields.io/badge/nijoow1127@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/>
-  </a>
-</div>
+React · Next.js · TypeScript
 
-<br/>
+디자인을 전공한 프론트엔드 개발자입니다.
 
-<h2 align="left">Languages and Tools</h2>
+인터랙티브 UI와 웹 성능, 사용자가 경험하는 제품의 완성도에 관심이 있습니다.
 
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,tailwind" />
-  </a>
-</p>
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,figma" />
-  </a>
+[포트폴리오](https://nijoow-portfolio.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/nijoow/) ·
+[이메일](mailto:nijoow1127@gmail.com)
+
+## 주요 기술
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,tailwind,git,github,figma" alt="주요 기술과 도구" />
 </p>
 
-<br/><br/>
-
-<div align="left">
-  
-[![Spotify](https://novatorem-nijoow.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z26ebvmvfzme53xtmbpjfs4rau)
-<a href="https://github.com/devxb/gitanimals">
- <img
-    src="https://render.gitanimals.org/lines/nijoow?pet-id=723089734390889944"
-    width="320"
-    height="120"
-  />
-</a>
-
-<img src="https://raw.githubusercontent.com/nijoow/nijoow/output/snake.svg" alt="Snake animation" />
-</div>
+TanStack Query · Zustand · React Hook Form · Zod · Framer Motion
